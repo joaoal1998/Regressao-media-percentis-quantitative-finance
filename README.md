@@ -91,7 +91,7 @@ Utiliza percentis móveis para detecção robusta de anomalias:
 
 ### Gráfico Triplo Interativo
 
-![Performance](https://github.com/joaoal1998/Analise-de-regressao-a-media-com-percentil-financas/blob/main/performance.png)
+![Performance](https://github.com/joaoal1998/Regressao-media-percentis-quantitative-finance/blob/main/performance.png)
 1. **Delta com Bandas**: Visualização das bandas e série Delta
 2. **Sinais de Trading**: Pontos de entrada no gráfico de preços
 3. **Performance Acumulada**: Evolução do retorno da estratégia
