@@ -125,12 +125,4 @@ Todos os parâmetros podem ser ajustados para otimização da estratégia confor
 - Baseada apenas em dados históricos
 - Assume liquidez suficiente para execução
 
-## 🎯 Próximos Passos
-
-- Implementação de stop-loss e take-profit
-- Análise de diferentes horizontes temporais
-- Inclusão de custos de transação
-- Teste em outros ativos
-- Implementação de estratégias short
-
 Disclaimer: Esta ferramenta é apenas para fins educacionais e de pesquisa. Não constitui aconselhamento financeiro. Sempre consulte um profissional qualificado antes de tomar decisões de investimento.
